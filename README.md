@@ -79,6 +79,7 @@ Some important insights discovered from the analysis:
 
 These patterns help in understanding which clinical features are important indicators of heart disease.
 
+---
 
 ---
 
@@ -98,5 +99,4 @@ Possible future improvements for this project:
 **Mayuri Patil**
 
 Aspiring Data Analyst | Python | SQL | Data Visualization
-
 
