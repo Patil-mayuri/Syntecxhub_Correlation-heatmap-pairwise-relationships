@@ -79,6 +79,24 @@ Some important insights discovered from the analysis:
 
 These patterns help in understanding which clinical features are important indicators of heart disease.
 
+
 ---
 
-## 📁 Project Structure
+## 🚀 Future Improvements
+
+Possible future improvements for this project:
+
+- Apply Machine Learning models for prediction
+- Feature importance analysis
+- Model evaluation and accuracy comparison
+- Interactive dashboards using Power BI or Tableau
+
+---
+
+## 👩‍💻 Author
+
+**Mayuri Patil**
+
+Aspiring Data Analyst | Python | SQL | Data Visualization
+
+
